@@ -7,3 +7,9 @@ Run this project `python3 manage.py runserver`
 
 then visit [http://localhost:8000/keras_app](http://localhost:8000/keras_app)
 
+
+## TO-DOs
+
+- [ ] Add Unit tests
+- [ ] Write requirements.txt
+- [ ] keras.json
